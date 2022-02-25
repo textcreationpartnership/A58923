@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable discourse against comprehension. Occasioned by a late pamphlet intituled The peaceable design, being a modest account of the non-conformists meetings, with some of their reasons for non-conformity: and the way of accomodation in the matter of religion. Humbly proposed to publick consideration by some ministers of London, against the sitting of Parliament, in the year, 1675.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58923</idno>
+            <idno type="STC">Wing S2227</idno>
+            <idno type="STC">ESTC R214757</idno>
+            <idno type="EEBO-CITATION">99826832</idno>
+            <idno type="PROQUEST">99826832</idno>
+            <idno type="VID">31241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31241)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1770:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable discourse against comprehension. Occasioned by a late pamphlet intituled The peaceable design, being a modest account of the non-conformists meetings, with some of their reasons for non-conformity: and the way of accomodation in the matter of religion. Humbly proposed to publick consideration by some ministers of London, against the sitting of Parliament, in the year, 1675.</title>
+                  <author>Hickes, George, 1642-1715. Letter sent from beyond the seas to one of the chief ministers of the Non-conforming party. aut</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A discourse against comprehension.</note>
+                  <note>"A letter sent from beyond the seas to one of the chief ministers of the non-conforming party" has separate dated title page dated 1674; register and pagination are continuous.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:31241:1"/>
+                  <p>A SEASONABLE DISCOURSE AGAINST COMPREHENSION.</p>
+                  <p>Occaſioned by a late PAMPHLET Intituled The Peaceable Deſign, Being a Modeſt Account of the <hi>Non-Conformiſts Meetings,</hi> with ſome of their Reaſons for <hi>Non-conformi<g ref="char:EOLhyphen"/>ty:</hi> And the way of Accommodation in the Matter of <hi>Religion.</hi> Humbly propo<g ref="char:EOLhyphen"/>ſed to Publick Conſideration by ſome Mi<g ref="char:EOLhyphen"/>niſters of <hi>London,</hi> againſt the Sitting of Parliament, in the Year, 1675.</p>
+                  <q>
+                     <bibl>Titus 1.13.</bibl>
+                     <p>Rebuke them ſharply, that they may be ſound in the Faith.</p>
+                  </q>
+                  <p>
+                     <hi>LONDON,</hi> Printed in the Year, 1676.</p>
+               </div>
+            </front>
+            <body>
+               <div type="political_tract">
+                  <pb facs="tcp:31241:2"/>
+                  <pb n="3" facs="tcp:31241:2"/>
+                  <head>A Diſcourſe againſt Com<g ref="char:EOLhyphen"/>prehenſion.</head>
+                  <p>'TIS an amazing <hi>Reflection</hi> (but that nothing ſeems ſtrange in theſe laſt and worſt of Days) that Perſons otherwiſe of un<g ref="char:EOLhyphen"/>doubted <hi>Loyalty,</hi> ſhould ſo far be a Con<g ref="char:EOLhyphen"/>tradiction to themſelves and their for<g ref="char:EOLhyphen"/>mer <hi>Actions,</hi> as out of a vain compliance with ſome People, and thereby to ob<g ref="char:EOLhyphen"/>tain the Title of <hi>Moderate Men,</hi> to be encouragers of thoſe Deſigns, which, if duely proſecuted according to ſome Mens intentions, are inevitably de<g ref="char:EOLhyphen"/>ſtructive both to <hi>Church</hi> and <hi>State.</hi>
+                  </p>
+                  <p>That there ſhould be <hi>Ambitious, Co<g ref="char:EOLhyphen"/>vetous, Diſcontented Perſons,</hi> who ha<g ref="char:EOLhyphen"/>ving flouriſhed under the late <hi>Rebelli<g ref="char:EOLhyphen"/>on,</hi> do endeavour to repeat it, is no wonder. But that any of thoſe Loyal <hi>Sufferers,</hi> who have ſufficiently ſmarted under the <hi>late Troubles,</hi> that thoſe ſhould ſo tamely contribute to their <hi>own</hi> and
+<pb n="4" facs="tcp:31241:3"/>the Churche's ruine, is not ſo eaſily un<g ref="char:EOLhyphen"/>derſtood.</p>
+                  <p>That the <hi>N. C.</hi> have formerly found Friends and Favourites amongſt ſome <hi>Privy-Counſellors,</hi> and others of the <hi>Nobility,</hi>
+                     <note place="margin">Pag. 2.</note> is eaſily granted. (And therefore the Author of <hi>Good-Will amongst Proteſtants,</hi> who ſo boaſtingly urgeth this Topick, might if he pleas'd, have kept his <hi>Quotations</hi> in his <hi>Common-Place-Book.</hi>)</p>
+                  <p>The generous diſpoſition of thoſe noble Spirits, naturally Compaſſionate towards all ſuffering Parties, and the great comparative <hi>Meekneſs</hi> and <hi>Inno<g ref="char:EOLhyphen"/>cency</hi> that appear'd in thoſe firſt <hi>Diſſen<g ref="char:EOLhyphen"/>ters,</hi> are a ready <hi>Apology</hi> for the <hi>Indul<g ref="char:EOLhyphen"/>gence</hi> that was then ſhewed them. But now ſince <hi>by their Fruits we do know them:</hi> Since their <hi>Principles</hi> are ex<g ref="char:EOLhyphen"/>plain'd into ſuch diſmal <hi>Practices</hi> (of which it were a happy thing if the ſad experience of theſe Kingdoms would ſuffer us to be ignorant) the Loyal <hi>Nobility</hi> and <hi>Gentry,</hi> much leſs the <hi>Clergy,</hi> have little cauſe to be fond of theſe People, who are ſtill diſturbing
+<pb n="5" facs="tcp:31241:3"/>
+                     <hi>Authority</hi> with their impertinent, I pray God they do not prove deſtructive, Cla<g ref="char:EOLhyphen"/>mours.</p>
+                  <p>That this may not be rejected as the melancholy reflexion of a diſcontented Brain, I ſhall conſider the intended Relaxation with all imaginable ſtrict<g ref="char:EOLhyphen"/>neſs.</p>
+                  <p>The Matter of <hi>Fact</hi> is this.</p>
+                  <p>The <hi>Non Conformiſts</hi> have mov'd, that <hi>two</hi> Declarations in the Act of <hi>Uniformity,</hi> may be diſpenſed with. They are theſe,</p>
+                  <p>I <hi>A. B.</hi> do here declare my unfeigned Aſſent and Conſent to all, and every thing contain<g ref="char:EOLhyphen"/>ed, and preſcribed in, and by the Book, Intituled, <hi>The Book of Common-Prayer, and Adminiſtration of the Sa<g ref="char:EOLhyphen"/>craments, and other Rites and Ceremonies of the
+<pb n="6" facs="tcp:31241:4"/>Church, according to the uſe of the Church of</hi> England; <hi>together with the</hi> Pſalter <hi>or</hi> Pſalmes <hi>of</hi> David, <hi>pointed as they are to be Sung or Said in Churches; and the form or manner of Making, Or<g ref="char:EOLhyphen"/>daining, and Conſecrating of Biſhops, Prieſts, and Deacons.</hi>
+                  </p>
+                  <p>I <hi>A. B.</hi> do declare, that it is not lawful upon any pretence whatſoever, to take Arms a<g ref="char:EOLhyphen"/>gainſt the <hi>King;</hi> and that I do abhor that Traiterous Poſition of taking Arms by his <hi>Autho<g ref="char:EOLhyphen"/>rity</hi> againſt his <hi>Perſon,</hi> or a<g ref="char:EOLhyphen"/>gainſt thoſe that are Commiſſi<g ref="char:EOLhyphen"/>onated by him; and that I will Conform to the <hi>Liturgy</hi> of the <hi>Church</hi> of <hi>England,</hi> as it
+<pb n="7" facs="tcp:31241:4"/>is now by Law eſtabliſhed. And I do declare that I do hold, there lies no Obligation upon me, or any other Perſon from the Oath, commonly called the <hi>Solemn League and Cove<g ref="char:EOLhyphen"/>nant</hi> to endeavour any Change or Alteration of Government, either in <hi>Church</hi> or <hi>State;</hi> and that the ſame was in it ſelf an <hi>unlawful</hi> Oath, and impo<g ref="char:EOLhyphen"/>poſed upon the <hi>Subjects</hi> of this Realm, againſt the known Laws and Liberties of this <hi>Kingdom.</hi>
+                  </p>
+                  <p>What <hi>Private</hi> deſigns are hereby promoting, we muſt leave to Almighty God and the Event of things: But as to the <hi>Publick,</hi> there can be no war<g ref="char:EOLhyphen"/>rantable Reaſon for ſuch <hi>Diſpenſation;</hi> but either the <hi>unlawfulneſs</hi> or inexpedi<g ref="char:EOLhyphen"/>ency of theſe <hi>Declarations.</hi>
+                  </p>
+                  <pb n="8" facs="tcp:31241:5"/>
+                  <p> The <hi>unlawfulneſs</hi> of them will never be pretended by any true <hi>Son</hi> of <hi>the Church of England.</hi> For this were in ſhort to give up the whole Cauſe; and to lay the charge of <hi>Schiſm</hi> at our own Doors. Becauſe, <hi>that</hi> Church which requires any thing <hi>unlawful,</hi> as a con<g ref="char:EOLhyphen"/>dition of her Communion, is doubtleſs <hi>Schiſmatical.</hi>
+                  </p>
+                  <p>But ſince thoſe <hi>Laws</hi> and <hi>Conſtituti<g ref="char:EOLhyphen"/>ons,</hi> which were at firſt Legally eſta<g ref="char:EOLhyphen"/>bliſh'd, may by the alteration of Cir<g ref="char:EOLhyphen"/>cumſtances, be very burdenſome to the <hi>Subject,</hi> and as ſuch ought to be <hi>Re<g ref="char:EOLhyphen"/>pealed;</hi> let us conſider the juſtneſs of their pretences herein. And if upon inquiry it do appear, that the conti<g ref="char:EOLhyphen"/>nuance of theſe <hi>Declarations</hi> is as ne<g ref="char:EOLhyphen"/>ceſſary for the preſervation both of <hi>Church</hi> and <hi>State</hi> as their firſt enforce<g ref="char:EOLhyphen"/>ment; I do then humbly petition <hi>Au<g ref="char:EOLhyphen"/>thority</hi> to conſider the excellent words of this preſent <note n="*" place="margin">Votes of the Houſe of Com<g ref="char:EOLhyphen"/>mons, <hi>Feb.</hi> 5. 1662. againſt Indulgence.</note> 
+                     <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+                  </p>
+                  <p>
+                     <hi>It will no way become the Gravity or Wiſdom of a Parliament, to paſs a Law
+<pb n="9" facs="tcp:31241:5"/>at one Seſſion for Uniformity, and at the next Seſſion (the Reaſons of Uniformity continuing ſtill the ſame) to paſs another Law to fruſtrate or weaken the Execution of it.</hi>
+                  </p>
+                  <p>
+                     <hi>It will expoſe your Majeſly to the reſt<g ref="char:EOLhyphen"/>leſs importunity of every Sect or Opinion, and of every ſingle Perſon alſo, who ſhall preſume to diſſent from the Church of</hi> England.</p>
+                  <p>As to theſe <hi>Declarations;</hi> the <hi>Aſſent</hi> and <hi>Conſent</hi> in the former, and the <hi>Re<g ref="char:EOLhyphen"/>nunciation</hi> of the <hi>Covenant</hi> in the later, are thus rationally grounded.</p>
+                  <p>The end and deſign of Government is, <hi>Salus Publica;</hi> it is to take care, <hi>Ne quid detrimenti capiat communitas:</hi> Or in the Apoſtles phraſe, <hi>That we may live a quiet and peaceable Life in all Godlineſs and Honeſly.</hi> For the obtain<g ref="char:EOLhyphen"/>ing of which happy end, his <hi>Sacred Majeſly,</hi> who is <hi>Cuſlos utriuſque tabulae,</hi> out of a due care of his People, by the advice of his <hi>Council,</hi> hath Enacted: That no Man be admitted into any Office <hi>Sacred</hi> or <hi>Secular,</hi> who, when his <hi>Place</hi> requires it, ref<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſeth by <hi>Oaths,</hi>
+                     <pb n="10" facs="tcp:31241:6"/>
+                     <hi>Subſcriptions, or Declarations,</hi> to give aſſurance to the <hi>Publick,</hi> that he is <hi>Or<g ref="char:EOLhyphen"/>thodox</hi> and <hi>Peaceable.</hi>
+                  </p>
+                  <p>Now ſince different Opinions and Practices in matters of Religion (eſpe<g ref="char:EOLhyphen"/>cially when cheriſhed and indulg'd) do naturally improve into contentious <hi>Diſputes;</hi> and thoſe Diſputes, if not reſtrain'd, break out into Civil Wars. For, <note n="*" place="margin">Mr. <hi>Newcomes</hi> Serm. before Parl. <hi>Sept.</hi> 12.1644. <hi>pag.</hi> 36.</note> 
+                     <hi>Men will at laſt take up Swords and Spears inſtead of Pens; and de<g ref="char:EOLhyphen"/>fend by Arms what they cannot do by Arguments.</hi> Since things are thus; 'Tis at leaſt Prudence, if not Duty, in the Supreme Power, to remove the occaſion of this Ruine, by enjoyning the Publick practice of theſe Duties in one Uniform way; that all his Subjects <hi>may ſpeak the ſame thing;</hi> and <hi>that there be no Diviſions amongſt them, perſectly joyn'd together in the ſame Mind and in the ſame Judgment.</hi>
+                  </p>
+                  <p>And therefore the Act for <hi>Unifor<g ref="char:EOLhyphen"/>mity</hi> moſt prudently enjoyneth, That no Man be permitted the publick Ex<g ref="char:EOLhyphen"/>erciſe of his Miniſtry, till in this firſt
+<pb n="11" facs="tcp:31241:6"/>
+                     <hi>Declaration,</hi> he hath given his unfeign<g ref="char:EOLhyphen"/>ed Aſſent and Conſent to the <hi>uſe</hi> of all and every thing in the ſaid Book con<g ref="char:EOLhyphen"/>tained and preſcribed: I ſay <hi>unfeigned;</hi> Hypocriſie being hateful both to <hi>God</hi> and <hi>Man,</hi> and deſtructive to humane Society.</p>
+                  <p>As to the other <hi>Declaration</hi> in brief thus.</p>
+                  <p>It being notoriouſly known with what deſign the <hi>Covenant</hi> was firſt Im<g ref="char:EOLhyphen"/>poſed; even the ruine of that <hi>Covern<g ref="char:EOLhyphen"/>ment</hi> which the <hi>Kings</hi> of <hi>England</hi> in their <hi>Goronation-Oath</hi> do ſwear to Main<g ref="char:EOLhyphen"/>tain: And the ſad Effects being as Ob<g ref="char:EOLhyphen"/>vious, to which that League was in a great meaſure Inſtrumental, Authori<g ref="char:EOLhyphen"/>ty could do no leſs, without being wanting to its own Preſervation, than to require an aſſurance from all Per<g ref="char:EOLhyphen"/>ſons to be admitted into the <hi>Miniſtry;</hi> that there lies no Obligation from this Oath, <hi>to endeavour any Alteration of Government either in Church or State.</hi> In which words whoever refuſeth to
+<pb n="12" facs="tcp:31241:7"/>declare doth in effect aſſure us; That though at preſent reſtrained, yet he is ſtill obliged, when occaſion ſhall offer it ſelf, in his Place and Calling to root out <hi>Popery, Prelacy,</hi> i. c. <hi>Government by Arch Biſhops, Biſhops, Deans, Chap<g ref="char:EOLhyphen"/>ters,</hi> &amp;c.</p>
+                  <p>If it be <hi>replied,</hi> That there is no Al<g ref="char:EOLhyphen"/>teration of Government intended by theſe moderate Diſſenters, whoſe Com<g ref="char:EOLhyphen"/>prehenſion is deſir'd; but that it is an<g ref="char:EOLhyphen"/>other Clauſe in the <hi>Declaration,</hi> which juſtiſieth their refuſal, <hi>viz. There lies no Obligation on me or any other Perſon,</hi> &amp;c. Which, ſay they, cannot ſafely be declar'd, becauſe, though they do not approve the whole <hi>Oath;</hi> yet there are ſeveral indiſpenſable Duties con<g ref="char:EOLhyphen"/>tained in it, which can never be <hi>re<g ref="char:EOLhyphen"/>nounced.</hi>
+                  </p>
+                  <p>To this I <hi>Anſwer:</hi>
+                  </p>
+                  <p>The <hi>Alcoran, Romiſh Breviary,</hi> or <hi>Miſſal,</hi> may by any one that hath ſub<g ref="char:EOLhyphen"/>ſcrib'd them be lawfully renounced; and yet doubtleſs there are in them ſe<g ref="char:EOLhyphen"/>veral Duties of Morality, whereto he was obliged before, and to which he was
+<pb n="13" facs="tcp:31241:7"/>further obliged by his own Perſonal act in ſubſcribing, as being a part there<g ref="char:EOLhyphen"/>of. Yet may he renounce <hi>In hac for<g ref="char:EOLhyphen"/>ma.</hi> And ſo it is with the <hi>Covenant;</hi> which may in like manner be renounc'd, notwithſtanding thoſe good things that are contained in it. The reaſon is, Becauſe <hi>Subſcription</hi> was to the <hi>Totum complexum,</hi> i. c. to the whole Frame of the <hi>Covenant</hi> as ſuch; and therefore the <hi>Abrenunciation</hi> of it muſt be to the whole as ſuch: The Obligation where<g ref="char:EOLhyphen"/>of being renounc'd, muſt reach to eve<g ref="char:EOLhyphen"/>ry Branch and Clauſe therein; ſo as no Man ſtandeth obliged to the perfor<g ref="char:EOLhyphen"/>mance of any one Branch thereof (though otherwiſe not only lawful, but even neceſſary upon ſome other ac<g ref="char:EOLhyphen"/>count) as it is a Branch of the Covenant.</p>
+                  <p>As to that trifling Scruple; That though <hi>they themſelves</hi> are not obliged by it, yet it is too much conſidence to declare; <hi>There lies no Obligation on any other:</hi> This, I ſay, ſcarce deſerves Confutation. For, ſince <hi>Nemo t<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ne<g ref="char:EOLhyphen"/>tur ad impoſſibile,</hi> and <hi>Juramentum non eſt vinculum iniquitatis;</hi> if it be <hi>in it?ſelf
+<pb n="14" facs="tcp:31241:8"/>an unlawſul</hi> Oath (as hath upon occaſion been ſufficiently prov'd) it can neither oblige <hi>them,</hi> nor <hi>any other</hi> whatſoever, to any thing but Repen<g ref="char:EOLhyphen"/>tance.</p>
+                  <p>But the moſt plauſible <hi>Pretence</hi> in behalf of theſe <hi>Diſſenters</hi> (and which it ſeems hath influene'd ſome loyal No<g ref="char:EOLhyphen"/>ble Breaſts) is this.</p>
+                  <p>The Union of <hi>Proteſtants</hi> in his Ma<g ref="char:EOLhyphen"/>jeſties Kingdom's, is a very bleaſſed and deſirable Work; and accordingly it is the Duty of every good <hi>Subject,</hi> in his Place and Calling, faithfully to pro<g ref="char:EOLhyphen"/>mote it: This being the moſt effectual Method to ſuppreſs the common Ene<g ref="char:EOLhyphen"/>my the <hi>Papiſts;</hi> who are doubtleſs more encourag'd by our <hi>Diviſions,</hi> than any other Motives or Endeavours of their own <hi>Party.</hi> And therefore were there but ſome little <hi>Relaxation</hi> granted, whereby the moſt eminent <hi>Presbyteri<g ref="char:EOLhyphen"/>ans</hi> might be receiv'd into the <hi>Church;</hi> What a conſternation would this ſtrike into the <hi>Papal Faction?</hi> What ſignal Service might the <hi>Church of England</hi> receive from theſe famous Champions,
+<pb n="15" facs="tcp:31241:8"/>whoſe Zeal and Learning are ſo noto<g ref="char:EOLhyphen"/>rious to the World?</p>
+                  <p>This is their <hi>Plea:</hi> The weakneſs of which may thus eaſily appear.</p>
+                  <p>The <hi>Union of Proteſtants, Reforma<g ref="char:EOLhyphen"/>tion of abuſes of Religion,</hi> with ſuch like ſpecious Names, being the uſual Vizards wherewith Men of inſatiable <hi>Avarice</hi> or <hi>Ambition</hi> diſguiſe their baſe unworthy Intentions, that the ugli<g ref="char:EOLhyphen"/>neſs thereof may not appear to vulgar Eyes: It concerns <hi>Authority</hi> to be very deliberate in their <hi>Councels,</hi> and not be too forward, upon every ſlight pre<g ref="char:EOLhyphen"/>tence, to innovate good <hi>Laws,</hi> for the ſad conſequents of which Change they can never be anſwerable to <hi>Church</hi> and <hi>State.</hi>
+                  </p>
+                  <p>
+                     <hi>Few are of ſo weak Capacity, but pub<g ref="char:EOLhyphen"/>lick evils they eaſily eſpie; fewer ſo pati<g ref="char:EOLhyphen"/>ent, as not to complain, when the grie<g ref="char:EOLhyphen"/>vous inconveniences thereof work ſenſible Smart,</hi> ſaith judicious Mr. <hi>Hooker.</hi> Hence it is that the very name of <hi>Re<g ref="char:EOLhyphen"/>formation</hi> carrieth with it a great deal of outward Glory and Luſtre, ſilling the Hearts of Men with expectation
+<pb n="16" facs="tcp:31241:9"/>of much Happineſs to enſue, and in that Hope is evermore entertain'd with general Applauſe, eſpecially of the <hi>Vulgar ſort:</hi> And therefore <hi>Covetous, Ambitious, Diſconted</hi> Perſons, have al<g ref="char:EOLhyphen"/>ways improv'd this Inclination to their own advantage. So that ſeldome hath any <hi>Sacrilegious or Seditious</hi> attempt appear'd abroad in the World, and been countenanced either by the <hi>Great ones,</hi> or the <hi>Many,</hi> which hath not been uther'd in by this piece of <hi>Hypocriſie;</hi> although upon the <hi>Poſt-fact</hi> we have ſad<g ref="char:EOLhyphen"/>ly experienc'd; that the pretence of a <hi>thorough Reformation</hi> ſerveth as a Foil to ſet off the blackeſt Crimes that ever the Chriſtian World was guilty of.</p>
+                  <p>This general Conſideration firſt pre<g ref="char:EOLhyphen"/>miſed (and 'tis no unſeaſonable Reſle<g ref="char:EOLhyphen"/>ction) to the preſent Propoſal, I thus</p>
+                  <p>
+                     <hi>Anſwer.</hi>
+                  </p>
+                  <p>That the Union of Proteſtants is indeed a very bleſſed and deſtreable Work, as being the moſt effectual
+<pb n="17" facs="tcp:31241:9"/>Method to ſuppreſs the common Ene<g ref="char:EOLhyphen"/>my the <hi>Papiſt;</hi> and accordingly that it is the Duty of every good Subject in his Place and Calling faithfully to promote it. Thus far is eaſily grant<g ref="char:EOLhyphen"/>ed. But then whether this <hi>Comprehen<g ref="char:EOLhyphen"/>ſion</hi> be ſo ſuitable a method to promote that bleſſed Work; or wether theſe <hi>Presbyterians</hi> would be ſo conſiderable a ſupport to the <hi>Proteſtant Cauſe,</hi> were the Walls of the <hi>Church,</hi> like thoſe of <hi>Troy,</hi> pull'd down to receive them, may beſt be judg'd by their own <hi>Confeſſion.</hi> For now they begin to ſpeak plain. The Mask of <hi>Hypocriſie</hi> by long wear<g ref="char:EOLhyphen"/>ing is grown ſo <hi>thin</hi> and <hi>uſeleſs,</hi> that it is fit for nothing but to be <hi>thrown by.</hi> That which ſo falſly and invidiouſly hath been objected againſt the <hi>Prelates,</hi> is too ſadly true of theſe Presbyterians, <hi>They have a Pope in Their Belly.</hi>
+                  </p>
+                  <p>This, you'll ſay, is a very harſh and uncharitable Reſlection: And I do ac<g ref="char:EOLhyphen"/>knowledg the <hi>Charge,</hi> were I not able thus to prove it.</p>
+                  <p>In this very Pamphlet, call'd the <hi>The Peaceable Deſign,</hi> p. 71, I ſind theſe words.</p>
+                  <pb n="18" facs="tcp:31241:10"/>
+                  <p> 
+                     <hi>Such a Toleration only is deſir'd, as is con<g ref="char:EOLhyphen"/>ſiſtent with the</hi> Articles of Faith, a good Life, and <hi>the Government of the Nation.</hi>
+                  </p>
+                  <p>
+                     <hi>But what ſhall we ſay then to the Pa<g ref="char:EOLhyphen"/>piſts, which is the Objection hit ſtill in their Teeth, that plead for Moderation? Why, we will not baulk the delivery of our Opinion.</hi>
+                  </p>
+                  <p>
+                     <hi>There are two part we profeſs of that favour or condeſcention we ſeek from the higher Powers: The one conſiſting of a</hi> Compoſition <hi>with thoſe, whoſe Principles are fit and capable of it: And the other conſiſting of</hi> Forbearance <hi>towards thoſe, whoſe Principles will allow them no more. The Papiſt in our account is but one ſort of Recuſants, and the conſcientious and peaceable among than muſt be hold in the ſame Predicament with thoſe among our ſelves, that likewiſe refuſe to come to Common Prayer.</hi> And a little after—<hi>But as for the Common Papiſt, who lives innocently in his way, he is to us as other Separatiſts, and ſo comes under the like</hi> Toleration.</p>
+                  <pb n="19" facs="tcp:31241:10"/>
+                  <p> From whence I thus Argue.</p>
+                  <p>
+                     <hi>Thoſe who affirm Popery to be conſiſtent with the Articles of Faith, a good Life, and the Goverment of the Nation, theſe are no faithful Friends to the Proteſtant Cauſe.</hi>
+                  </p>
+                  <p>But <hi>theſe Presbyterians, who deſire this Comprehenſion, they affirm Popery to be conſiſtent with the Articles of Faith, a good Life, and the Government of the Nation.</hi>
+                  </p>
+                  <p>Therefore, <hi>theſe Presbyterians who de<g ref="char:EOLhyphen"/>ſire this Comprehenſion, they are no faith<g ref="char:EOLhyphen"/>ful Friends to the Proteſtant Cauſe.</hi>
+                  </p>
+                  <p>The <hi>Major</hi> I think cannot be deny'd. For, the <hi>Articles</hi> of our Faith being deſignedly Eſtabliſh'd by our firſt <hi>Re<g ref="char:EOLhyphen"/>formers,</hi> in oppoſition to <hi>Popery</hi> (moſt of the <hi>Popiſh</hi> Tenets being condemn'd therein) thoſe who affirm <hi>Popery</hi> to be conſiſtent with <hi>them,</hi> are Betrayers of the <hi>Reformation.</hi>
+                  </p>
+                  <pb n="20" facs="tcp:31241:11"/>
+                  <p> The <hi>Minor</hi> is thus proved.</p>
+                  <p>
+                     <hi>Thoſe who admit a Toleration of Popery, and yet at the ſame time-profeſs; That ſuch a Toleration only is deſir'd, as is conſiſtent with the Articles of Faith, a good Life, and the Government of the Nation; thoſe affirm Popery to be conſiſtent with the Ar<g ref="char:EOLhyphen"/>ticles of Faith, a good Life, and the Go<g ref="char:EOLhyphen"/>vernment of the Nation.</hi>
+                  </p>
+                  <p>
+                     <hi>But theſe</hi> Presbyterians <hi>who deſire this Comprehenſion, they admit a Toleration of Popery; And yet at the ſame time profeſs that ſuch a Toleration only is deſir'd as is conſiſtent with the Articles of Faith, a good Life, and the Government of the Nations.</hi>
+                  </p>
+                  <p>
+                     <hi>Therefore theſe Presbyterians, who deſire this Comprehenſion, they affirm Popery to be conſiſtent with the Articles of Faith, a good Life, and the Government of the Nation.</hi>
+                  </p>
+                  <p>The <hi>Major</hi> is clear and imqueſtion<g ref="char:EOLhyphen"/>able, as likewiſe the <hi>Minor,</hi> which is thus prov'd from their own words.</p>
+                  <p>That they admit of a <hi>Toleration</hi> of
+<pb n="21" facs="tcp:31241:11"/>
+                     <hi>Popery,</hi> is plain from the fore-cited Ex<g ref="char:EOLhyphen"/>preſſions, <hi>viz.</hi>
+                     <note place="margin">Peaceable Design. <hi>pag.</hi> 72.</note> * <hi>As for the common Papiſt, who lives inno<g ref="char:EOLhyphen"/>cently in his way, he is to us as other Separatiſts, and ſo comes under the like Toleration.</hi>
+                  </p>
+                  <p>That ſuch a Toleration only is de<g ref="char:EOLhyphen"/>ſired, as is conſiſtent with the <hi>Articles of Faith,</hi> a <hi>good Life,</hi> and <hi>the Govern<g ref="char:EOLhyphen"/>ment of the Nation</hi> (the latter part of the <hi>Minor</hi>) theſe are the very words of the <hi>Pamphlet.</hi>
+                  </p>
+                  <p>This acknowledg'd agreement be<g ref="char:EOLhyphen"/>twixt <hi>Popery</hi> and <hi>Presbytery,</hi> doth de<g ref="char:EOLhyphen"/>ſervedly require ſome further Reflexi<g ref="char:EOLhyphen"/>ons, which I ſhall give my <hi>Reader</hi> in the words of a moſt <hi>Learned,</hi> and (if I am not miſinform'd) <hi>Right Honourable</hi> Perſon; by tranſcribing part of his <hi>Letter;</hi> the <hi>Title</hi> of which is as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:31241:12"/>
+                  <pb facs="tcp:31241:12" rendition="simple:additions"/>
+                  <p>A LETTER Sent from beyond the SEAS To one of the CHIEF MINISTERS OF THE Non-Conforming PARTY By way of Reply to many Par<g ref="char:EOLhyphen"/>ticulars, which he ſent to the Au<g ref="char:EOLhyphen"/>thor in a Letter of News.</p>
+                  <p>Uſeful for theſe Diſtempered Times.</p>
+                  <p>By a Lover of the Eſtabliſh'd Government both of Church and State.</p>
+                  <p>Anno. Dom. M.DC.LXXIV.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb n="26" facs="tcp:31241:13"/>
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+                  <p>a <hi>Toleration</hi> as that was, knowing that it muſt needs tend to the ruine of the Church of <hi>England,</hi> which is the prin<g ref="char:EOLhyphen"/>cipal <hi>Butt</hi> of all their Envy and Ma<g ref="char:EOLhyphen"/>lice; as being the main Support and Credit of the Reformed Religion eve<g ref="char:EOLhyphen"/>ry where, and the only Hedg againſt <hi>Popery</hi> it ſelf in our unfortunate <hi>Bri<g ref="char:EOLhyphen"/>tiſh Iſles.</hi>
+                  </p>
+                  <p>We meet with not a few <hi>Prieſts</hi> of ſeveral Orders, that have the confi<g ref="char:EOLhyphen"/>dence (in our moſt familiar Confe<g ref="char:EOLhyphen"/>rences) to tell us; that by the juſt Judg<g ref="char:EOLhyphen"/>ment of God upon our <hi>Church,</hi> the time of her Ruine is at hand: The Na<g ref="char:EOLhyphen"/>tion it ſelf being over-ſpread with Schiſm and Atheiſm, and the Hearts of the Faithful being diſpoſed by the Spirit and Providence of God to reem<g ref="char:EOLhyphen"/>brace the holy <hi>Catholick Truth.</hi> And therefore they freely confeſs, that this time of Diſtraction is their Harveſt; and withal expreſs their Intentions and Zeal to tranſport themſelves into <hi>England</hi> at the Critical time of Tole<g ref="char:EOLhyphen"/>ration, that they may be Fellow-La<g ref="char:EOLhyphen"/>bourers with your ſelves in that Har<g ref="char:EOLhyphen"/>veſt.
+<pb n="27" facs="tcp:31241:13"/>They ſeem to Lament as much, and Complain as faſt, of the prodigi<g ref="char:EOLhyphen"/>ous increaſe of Schiſm and Atheiſm among us, as you are wont to do of the daily growth of <hi>Atheiſm</hi> and <hi>Po<g ref="char:EOLhyphen"/>pery.</hi>
+                  </p>
+                  <p>And whilſt you both complain alike, and in the formality of your com<g ref="char:EOLhyphen"/>plaints both alike reflect upon the Church of <hi>England;</hi> it is <hi>She</hi> only that is the Sufferer, and <hi>She</hi> only that truly laments the Growth, and at the ſame time ſets up Banks to hinder the perfect Inundation of all the three a<g ref="char:EOLhyphen"/>mong us.</p>
+                  <p>As for <hi>Schiſm</hi> among <hi>Proteſtants,</hi> you were the firſt Fathers, and conti<g ref="char:EOLhyphen"/>nue the chief Fautors thereof; all the inferior <hi>Sects</hi> having ſprung from <hi>you,</hi> and dividing both from <hi>you,</hi> and one an<g ref="char:EOLhyphen"/>other, under pretence of the ſame Rea<g ref="char:EOLhyphen"/>ſons, for which you profeſs to divide from the <hi>Church.</hi> And 'tis from <hi>you,</hi> that even the <hi>Quakering</hi> Sect it ſelf (the Dregs of <hi>Schiſm</hi>) have learn'd to talk of <hi>Illumination,</hi> and the <hi>Spirit.</hi> And therefore if you be not <hi>Schiſmaticks,</hi> then
+<pb n="30" facs="tcp:31241:14"/>
+                     <gap reason="missing" extent="2 pages">
+                        <desc>〈2 pages missing〉</desc>
+                     </gap>make themſelves Popular and Power<g ref="char:EOLhyphen"/>ful; that they may afterwards act with good Colour whatſoever their In<g ref="char:EOLhyphen"/>tereſt ſhall ſuggeſt.</p>
+                  <p>And furthermore to conſider; That the great pretenders of the <hi>Spirit,</hi> and power of the Chriſtian Religion (which with reſpect to Magiſtrates teacheth nothing but to <hi>Obey</hi> or <hi>Suffer</hi>) ſhould notwithſtanding Preach up <hi>Rebellion</hi> a<g ref="char:EOLhyphen"/>gainſt their Lawful <hi>Prince;</hi> Fight him from Field to Field; remove him from Priſon to Priſon, and at laſt moſt Bar<g ref="char:EOLhyphen"/>barouſly put him to Death; is ſuch an abſurdity againſt the Principles of right <hi>Reaſon;</hi> ſo repugnant to the Laws of our own Nation, and ſo inconſiſtent with the Peaceable Doctrine of the <hi>Goſpel;</hi> that beſides the <hi>Atheiſts</hi> it hath made, it hath, and ever will conſtrain Men of honeſt <hi>Principles</hi> and juſt <hi>Reſent<g ref="char:EOLhyphen"/>ments,</hi> to Perſecute you with <hi>Satyrs</hi> and <hi>Exclamations</hi> to the end of the <hi>World.</hi>
+                  </p>
+                  <p>I am conſident, I do not unjuſtly charge you in any particular, eſpecial<g ref="char:EOLhyphen"/>ly with the <hi>Murther</hi> of the <hi>King.</hi> For there were no Acceſſaries in the Mar<g ref="char:EOLhyphen"/>ther
+<pb n="31" facs="tcp:31241:14"/>of that <hi>ſacred Perſon;</hi> neither was it the laſt ſtroke only that fell'd the Roy<g ref="char:EOLhyphen"/>al Oak; but <hi>you</hi> and the <hi>Independants,</hi> like the two Sacrilegious Prieſts of <hi>Ju<g ref="char:EOLhyphen"/>piter,</hi> are equally g<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ilty of the <hi>Crime;</hi> the one for binding the direful <hi>Victim,</hi> and the other for putting the Knife to his <hi>Throat.</hi>
+                  </p>
+                  <p>But to be ſhort; where I am ſo unac<g ref="char:EOLhyphen"/>ceptable, I'le conclude my <hi>Argument</hi> with a <hi>Fable.</hi> A principal Ship, which for many years had been <hi>Sovereign</hi> of the Seas, was at laſt Attaqued by a Tempeſtuous Wind, which the <hi>Devil</hi> raiſed, and notwithſtanding all the help that could be made to ſave her, was dri<g ref="char:EOLhyphen"/>ven by the force of that malignant <hi>Wind,</hi> and ſplit upon a <hi>Rock.</hi> The ve<g ref="char:EOLhyphen"/>ry ſame inſtant ſhe daſhed upon the Rock, the Wind ceaſed; and being af<g ref="char:EOLhyphen"/>terwards curſed by the Sea-Men, for the Wrack of the <hi>Royal Charles</hi> (for ſo the Capital Veſſel was called) anſwer<g ref="char:EOLhyphen"/>ed: You charge me moſt unjuſtly, my Friends; it was not I, but the <hi>Rock,</hi> as you ſaw, that ſplit your <hi>Ship,</hi>
+                  </p>
+                  <pb n="32" facs="tcp:31241:15"/>
+                  <p> The <hi>Moral</hi> of this Parable is very obvious; and if the <hi>Application</hi> there<g ref="char:EOLhyphen"/>of, or any thing elſe that I have writ<g ref="char:EOLhyphen"/>ten, may conduce to awaken your <hi>Con<g ref="char:EOLhyphen"/>ſcience,</hi> and reclaim you from <hi>Schiſm,</hi> I ſhall think my pains well beſtowed. But if <hi>you</hi> and your Seditious <hi>Brethren</hi> will ſtill perſevere to aſſault the <hi>Church</hi> on one hand, as faſt as the <hi>Romiſh Prieſts</hi> do undermine Her on the other, Her day's are like to be but few and evil; and except <hi>God</hi> incline the Heart of our <hi>Magistrates</hi> to put the <hi>Laws</hi> in Execution againſt <hi>them,</hi> and find ſome effectual means to reduce <hi>you,</hi> you may live to ſee her Ruine accompliſhed, which you both alike deſire and ex<g ref="char:EOLhyphen"/>pect.</p>
+                  <p>How numerous you are, the World can geſs; and if the Accounts, which we receive from the Fathers of <hi>Intelli<g ref="char:EOLhyphen"/>gence,</hi> of ſeveral <hi>Orders,</hi> be credible; there are at leaſt <hi>three Thouſand</hi> of them, which find entertainment and ſucceſs in our <hi>Nation.</hi> But in the mean time, till her hour is come, ſhe ſtrugleth a<g ref="char:EOLhyphen"/>gainſt both, like her <hi>Saviour</hi> againſt
+<pb n="33" facs="tcp:31241:15"/>the <hi>Phariſees,</hi> whoſe true Diſciples in part you both are: <hi>They</hi> repreſenting thoſe ſworn Enemies of the Goſpel, by the <hi>Gabala</hi> of their ridiculous and im<g ref="char:EOLhyphen"/>pious <hi>Traditions;</hi> and you repreſenting them in their <hi>Hypocriſie, Pride, Envy, Evil-ſpeaking, moroſs</hi> and <hi>cenſorious Diſ<g ref="char:EOLhyphen"/>poſitions,</hi> &amp;c. (which are <hi>ſins</hi> ſcarce conſiſtent with <hi>Humanity,</hi> much leſs with <hi>Grace</hi>) as likewiſe in obſerving many <hi>Faſts,</hi> and making long <hi>Prayers,</hi> with deſign not to ſerve <hi>God,</hi> but to de<g ref="char:EOLhyphen"/>lude the <hi>People.</hi> And therefore I won<g ref="char:EOLhyphen"/>der not that you are ſuch malignant E<g ref="char:EOLhyphen"/>nemies to the Church of <hi>England,</hi> ſince that <hi>Phariſaical</hi> ſpirit, which reigneth ſo much amongſt you, is a wicked Pu<g ref="char:EOLhyphen"/>ſillanimous ſpirit, that affects to be ſeen in the Head of <hi>Parties,</hi> and Di<g ref="char:EOLhyphen"/>ctate amongſt the <hi>Ignorant;</hi> and loves as much to <hi>Rule,</hi> as it hates to <hi>Obey.</hi>
+                  </p>
+                  <p>But would you once be ſo ſincere, as to ſubdue your <hi>Pride;</hi> lay aſide your <hi>Pre<g ref="char:EOLhyphen"/>judice;</hi> inform your <hi>Ignorance;</hi> and for<g ref="char:EOLhyphen"/>ſake your dearly beloved <hi>Intereſt</hi> for the <hi>Truth:</hi> It would not be long ere we ſhould ſee you joyn with the Church of
+<pb n="34" facs="tcp:31241:16"/>
+                     <hi>England,</hi> without troubling our <hi>Sena<g ref="char:EOLhyphen"/>tors</hi> to bring you in, with an <hi>Act</hi> of <hi>Comprehenſion.</hi>
+                  </p>
+                  <p>Your <hi>Pride</hi> appeareth in Heading of <hi>Parties,</hi> and in the Pleaſure you are ſeen to take in the Multitudes, that run after you; and in your Boaſting, that without <hi>you,</hi> the <hi>Souls</hi> of People would ſtarve for want of <hi>Knowledg.</hi>
+                  </p>
+                  <p>Your <hi>Prejudice</hi> is an effect of your <hi>Pride,</hi> and diſcovers it ſelf together with your <hi>Ignorance,</hi> in not ſubmitting to thoſe <hi>Invincible Reaſons</hi> which you cannot <hi>anſwer.</hi>
+                  </p>
+                  <p>And as for your <hi>Intereſt,</hi> the great<g ref="char:EOLhyphen"/>eſt Paradox of all, that is evident e<g ref="char:EOLhyphen"/>nough to me, who have ſo often heard many of you glorifie your ſelves in the <hi>Number</hi> and <hi>Riches</hi> of your <hi>Followers,</hi> boaſt of their Affection to your ſacred Perſons, and brag of the great <hi>Sums</hi> you have Collected in your <hi>Congregations;</hi> which makes the <hi>King's Chappels</hi> (as you Arrogantly call your <hi>Conventicles</hi>) better Places than moſt of the <hi>Churches</hi> of which he is <hi>Patron.</hi> And therefore never complain that you live either
+<pb n="35" facs="tcp:31241:16"/>worſe, or at greater uncertainties than you did before.</p>
+                  <p>For by your pretenſions to <hi>Poverty</hi> and <hi>Sufferings,</hi> and by other unworthy <hi>Arts,</hi> you have ſo wrought your ſelves into the eſteem of your <hi>Diſciples,</hi> that few of them are either ſo <hi>Covetous</hi> or ſo <hi>Poor,</hi> but they will Pinch at Home to ſupply <hi>you.</hi>
+                  </p>
+                  <p>There are ſeveral Orders of <hi>Fran<g ref="char:EOLhyphen"/>ciſcans</hi> here, who have renounc'd not only <hi>Parſonages,</hi> but all <hi>Temporal E<g ref="char:EOLhyphen"/>ſtates,</hi> and <hi>Poſſeſſions</hi> whatſoever; and by their Vain-glorious <hi>Sanctity</hi> and <hi>Au<g ref="char:EOLhyphen"/>ſterities,</hi> they have got, like you, ſuch faſt hold on the Souls of the People (which is the faſteſt hold of all)that they can eaſily make moſt of them diſpoſe of their <hi>Children,</hi> Caſhier their <hi>Ser<g ref="char:EOLhyphen"/>vants,</hi> and ſettle their <hi>Eſtates</hi> as they pleaſe; and by theſe Tricks do more effectually promote the Intereſt of <hi>Rome,</hi> than all the <hi>Pariſh-Prieſts</hi> with<g ref="char:EOLhyphen"/>in the Pale of that <hi>Church.</hi>
+                  </p>
+                  <p>And really, when I conſider what Influence theſe Sanctimonious and Self-denying <hi>Zealots</hi> have o're all Families
+<pb n="36" facs="tcp:31241:17"/>in all Places where they live; how they ſteal away the Hearts of the Peo<g ref="char:EOLhyphen"/>ple from their <hi>Pariſh Prieſts,</hi> and Drain their Congregations; and how the deluded People had rather give <hi>them</hi> the worth of a <hi>Shilling,</hi> than the Dues of <hi>Two pence</hi> to their own <hi>Cures;</hi> it makes me often run the Parallel be<g ref="char:EOLhyphen"/>tween <hi>you</hi> and <hi>them,</hi> and think; what a Politick and gainful Pretence you have got to renounce your <hi>Livings,</hi> for to ſecure your <hi>Conſciences,</hi> and to <hi>Preach</hi> the <hi>Word</hi> like the <hi>Primitive Apostles;</hi> when <hi>God</hi> knows, 'tis not out of Love to the <hi>People,</hi> but to <hi>your ſelves.</hi>
+                  </p>
+                  <p>And I proteſt to you, were I a Man to be Maintain'd by the <hi>Pulpit,</hi> and conſulted my <hi>Proſit</hi> more than the <hi>Goodneſs of my Cauſe,</hi> I ſhould take the ſame Courſes that you do; I ſhould rather be Mr. <hi>M.</hi> than Dr. <hi>A.</hi> of <hi>Ply<g ref="char:EOLhyphen"/>mouth;</hi> and ſhould chuſe the plentiful Income of that dull Zealot Dr. <hi>Man<g ref="char:EOLhyphen"/>ton,</hi> before that of his moſt Learned and Religious Succeſſor of <hi>Covent-Garden.</hi>
+                  </p>
+                  <pb n="37" facs="tcp:31241:17"/>
+                  <p> But though you Live very well, and better indeed than moſt of the <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> of the <hi>Church,</hi> yet the Miſchief of it is, you are uncapable of <hi>Digni<g ref="char:EOLhyphen"/>ties;</hi> which makes you ſuch <hi>Acrians,</hi> and upon all occaſions openeth your Throats as wide as <hi>Sepulchres,</hi> againſt the <hi>Biſhops</hi> and the <hi>Church.</hi>
+                  </p>
+                  <p>You know what an Hiſtory of <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> Mr. <hi>Prin</hi> hath wrote, and what a fair Collection the Learned <hi>Smec.</hi> hath taken out of him; as if when a <hi>Biſhop</hi> is defective, either in Piety, Learning, or the Skill of Government, it were not the deplorable Unhappineſs, but the fault of the Church of <hi>England.</hi>
+                  </p>
+                  <p>Should an <hi>Heathen,</hi> or <hi>Mahumetan,</hi> make ſuch an Hiſtorical Collection of ſcandalous <hi>Chriſtians,</hi> either in this or former Ages, you would not be per<g ref="char:EOLhyphen"/>ſwaded for all that, to prefer the <hi>Al<g ref="char:EOLhyphen"/>coran</hi> before the <hi>Goſpel,</hi> or the moſt ex<g ref="char:EOLhyphen"/>alted <hi>Paganiſm</hi> whatſoever, before the <hi>Chriſtian Religion.</hi>
+                  </p>
+                  <p>Therefore Wiſe and Sober Men will make no Inference but this, from ſuch a malicious enumeration of Particulars:
+<pb n="38" facs="tcp:31241:18"/>That <hi>Corruptions</hi> will creep into <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi> notwithſtanding all the care that can be uſed to the contrary; and that by the favour of <hi>Princes</hi> (who hear with other Mens <hi>Ears,</hi> and often receive undeſerved <hi>Characters</hi> of Men) ſometimes <hi>Ambitions,</hi> ſometimes <hi>Igno<g ref="char:EOLhyphen"/>rant,</hi> and ſometimes <hi>Slothful, Impru<g ref="char:EOLhyphen"/>dent,</hi> or <hi>Debauched</hi> Perſons, will be prefer'd to the moſt Honourable <hi>Digni<g ref="char:EOLhyphen"/>ties</hi> in the <hi>Church.</hi> But this, as often as it happens, is the Miſery of the <hi>Church</hi> of <hi>England,</hi> which all true <hi>Church Men</hi> lament; though the Men of the <hi>ſhort Cloak</hi> take all ſuch occaſions to expoſe her to the Scorn of the Com<g ref="char:EOLhyphen"/>mon People, who judg by <hi>Senſe</hi> and not by <hi>Reaſon;</hi> and who are taught by <hi>you,</hi> to make no diſtinction between the <hi>Biſhops</hi> and the <hi>Church.</hi>
+                  </p>
+                  <p>But were all her <hi>Biſhops</hi> the beſt <hi>Ghri<g ref="char:EOLhyphen"/>ſtians,</hi> the beſt <hi>Scholars,</hi> and the beſt <hi>Governours</hi> in the World; and ſhould the <hi>Royal</hi> hand place her <hi>Miters</hi> on the Heads of none but <hi>Jewels, Whitgift's, Andrew's, Hall's, Uſher's, Morton's, Taylor's,</hi> and <hi>Sanderſon's,</hi> yet that Un<g ref="char:EOLhyphen"/>chriſtian
+<pb n="39" facs="tcp:31241:18"/>ſpirit of Envy and Diſcon<g ref="char:EOLhyphen"/>tent, which informs the <hi>Non-Con<g ref="char:EOLhyphen"/>formiſts,</hi> would ſtill ſlie upon her with open Mouth, like Beaſts upon the <hi>Saints</hi> of old condemn'd to the <hi>Amphi<g ref="char:EOLhyphen"/>theater;</hi> and make her, as ſhe hath al<g ref="char:EOLhyphen"/>ready been for almoſt <hi>Forty</hi> years, a Spectacle to <hi>God,</hi> to <hi>Angels,</hi> and to <hi>Men.</hi>
+                  </p>
+                  <p>The wicked Lives of ſcandalous <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> and <hi>Prieſts,</hi> if there be any ſuch, are her ſad Misfortune, but cannot juſtifie the <hi>Schiſm</hi> you are guilty of; who are bound to hear even <hi>them,</hi> as much as the <hi>Jew's</hi> were bound to hear the <hi>Scribes</hi> and <hi>Phariſes,</hi> thoſe <hi>Hypo<g ref="char:EOLhyphen"/>crites</hi> that ſate in <hi>Moſes's Chair.</hi>
+                  </p>
+                  <p>—If either this, or any thing elſe, a thouſand times better than I am able to Write, may prove effectual to reclaim you from <hi>Schiſm;</hi> I ſhall be as glad, as to ſee ſome other of our Friends reformed from <hi>Drun<g ref="char:EOLhyphen"/>kenneſs, Swearing,</hi> and <hi>Unclean<g ref="char:EOLhyphen"/>neſs:</hi> Which are very grievous and dreadful <hi>Sins,</hi> but yet not more dam<g ref="char:EOLhyphen"/>nable in their Nature, nor more de<g ref="char:EOLhyphen"/>ſtructive
+<pb n="40" facs="tcp:31241:19"/>to the <hi>Chriſtian Religion,</hi> nor more deeply rooted in the Soul of Man, than that of <hi>Schiſm.</hi> From which I pray God by the Power of his Grace to Preſerve me, and Reform you, <hi>through Jeſus Chriſt our Lord; to whoſe Prote<g ref="char:EOLhyphen"/>ction I commit you and reſt,</hi>
+                  </p>
+                  <closer>
+                     <signed>Your moſt Affectionate Coſin, and Humble Servant.</signed>
+                     <dateline>Saumur, <date>May, 7. 1674.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
